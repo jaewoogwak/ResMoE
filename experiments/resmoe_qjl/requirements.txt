@@ -1,0 +1,7 @@
+POT>=0.9.7
+scipy>=1.10
+safetensors>=0.4
+datasets>=2.18
+lm-eval>=0.4.12
+matplotlib>=3.8
+pytest>=8
